@@ -1,0 +1,2 @@
+@interface CCViewController : UIViewController
+@end
